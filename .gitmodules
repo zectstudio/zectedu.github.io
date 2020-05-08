@@ -1,3 +1,7 @@
 [submodule "themes/zectedu"]
 	path = themes/zectedu
 	url = https://github.com/themefisher/educenter-hugo
+
+[submodule "themes/zect-edu"]
+	path = themes/zect-edu
+	url = https://github.com/arivle/educenter-hugo
