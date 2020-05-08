@@ -1,0 +1,3 @@
+[submodule "themes/zectedu"]
+	path = themes/zectedu
+	url = https://github.com/themefisher/educenter-hugo
