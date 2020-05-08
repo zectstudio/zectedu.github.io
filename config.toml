@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "https://arivle.github.io/zectedu.github.io/"
 title = "ZectEdu : Leading Education Website"
 theme = "zect-edu"
 # post pagination
