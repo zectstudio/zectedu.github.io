@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://arivle.github.io/zectedu.github.io/"
+baseURL = "https://zectedu.netlify.app"
 title = "ZectEdu : Leading Education Website"
 theme = "zect-edu"
 # post pagination
